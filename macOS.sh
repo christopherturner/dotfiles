@@ -33,7 +33,9 @@ defaults write com.apple.SoftwareUpdate AutomaticDownload -int 1
 defaults write com.apple.SoftwareUpdate CriticalUpdateInstall -int 1
 
 ###############################################################################
-# Homebrew                                                                    #
+# Kill affected applications                                                  #
 ###############################################################################
-
-sh brew.sh
+for app in "cfprefsd" "Dock" "Finder" "SystemUIServer";
+do killall "${app}" &> /dev/null
+done
+echo "Done. Note that some of these changes require a logout/restart to take effect."
