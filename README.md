@@ -1,3 +1,3 @@
-# Hey there!  I see you've found my dotfiles.
-## Setup
+# Getting Started
+## macOS Setup
 Simply run `sh macOS.sh`.
