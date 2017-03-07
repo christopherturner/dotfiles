@@ -1,3 +1,3 @@
 # Getting Started
 ## macOS Setup
-Simply run `sh macOS.sh`.
+Simply download and run `sh macOS.sh`.
