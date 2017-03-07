@@ -16,14 +16,3 @@ brew install wget
 
 # Cleanup Homebrew files
 brew cleanup
-
-# Get Cask
-brew tap caskroom/cask
-
-# Install Casks
-brew cask install flux
-brew cask install java
-brew cask install libreoffice
-
-# Cleanup Cask files
-brew cask cleanup
