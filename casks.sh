@@ -14,7 +14,7 @@ brew cask install cryptomator
 brew cask install torbrowser
 brew cask install google-chrome
 brew cask install handbrake
-brew cask install spectacle
+# brew cask install spectacle
 
 # Install Social Apps
 brew cask install slack
