@@ -6,7 +6,6 @@ brew cask install github-desktop
 brew cask install visual-studio-code
 brew cask install dash
 
-
 # Install Utilities
 brew cask install flux
 brew cask install java
@@ -15,7 +14,7 @@ brew cask install cryptomator
 brew cask install torbrowser
 brew cask install google-chrome
 brew cask install handbrake
-
+brew cask install spectacle
 
 # Install Social Apps
 brew cask install slack
