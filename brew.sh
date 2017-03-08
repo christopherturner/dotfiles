@@ -8,8 +8,10 @@ brew update
 brew upgrade
 
 # Install utilities
+brew install cocoapods
 brew install coreutils
 brew install git
+brew install lynis
 brew install tor
 brew install tree
 brew install wget
