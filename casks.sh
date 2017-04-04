@@ -5,11 +5,10 @@ brew tap caskroom/cask
 brew cask install github-desktop
 brew cask install visual-studio-code
 brew cask install dash
+brew cask install atom
 
 # Install Utilities
-brew cask install flux
 brew cask install java
-brew cask install libreoffice
 brew cask install cryptomator
 brew cask install torbrowser
 brew cask install google-chrome
