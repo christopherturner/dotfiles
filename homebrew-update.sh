@@ -1,0 +1,2 @@
+brew upgrade
+brew cleanup
